@@ -1,6 +1,6 @@
 # Resumes
 
-This is my development over the years. listed below is my very first resume and most recent resume for contrast. 
+This is my development over the years. listed below is my first and most recent resume for contrast. 
 
 ## [Orginal Resume](https://github.com/jordanadrianoo/Resumes/blob/master/Resume%20Version/Orginal%20Resume.pdf)
 
