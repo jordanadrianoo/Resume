@@ -6,6 +6,6 @@ This is my development over the years. listed below is my first and most recent 
 
 This was the first resume I mocked up for the GMIS Convention in 2019.
 
-## [Current Resume](https://github.com/jordanadrianoo/Resumes/blob/master/Resume%20Version/Resume%20v5.pdf)
+## [Current Resume]()
 
 This is my most up to date resume.
